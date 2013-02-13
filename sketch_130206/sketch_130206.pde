@@ -30,6 +30,8 @@ void setup() {
   size(400, 400);
   colorMode(RGB, 255, 255, 255);
   noStroke();
+  
+  noLoop();
 }
 
 /*
