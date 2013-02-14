@@ -127,7 +127,7 @@ void createPackmaso() {
   if (myColor > maxColor) {
     myColor = 0;
   }
-
+    
   particles.add(new packmaso(myColor));
 }
 
