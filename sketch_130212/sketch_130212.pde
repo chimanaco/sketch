@@ -126,8 +126,7 @@ void heart(color interA)
   fill(interA); 
   vertex(40, 15); 
   bezierVertex(40, -5, 80, 5, 40, 40); 
-  vertex(40, 15); 
-  bezierVertex(40, -5, 0, 5, 40, 40);   
+  bezierVertex(0, 5, 40, -5, 40, 15);   
   endShape(CLOSE);
 }
 
