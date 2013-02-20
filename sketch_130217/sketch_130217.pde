@@ -13,7 +13,7 @@ SquarePatternMaker pm;
 int col = 4;  // tate
 int xOffset = 15;
 int yOffset = 15;
-String caption = "SQUARE";
+String caption = "RECT";
 float w = 0.4;
 
 /*
